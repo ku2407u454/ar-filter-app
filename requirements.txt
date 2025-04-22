@@ -3,3 +3,5 @@ opencv-python
 dlib
 numpy
 Pillow
+streamlit-webrtc
+imutils
